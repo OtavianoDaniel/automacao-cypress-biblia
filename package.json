@@ -1,0 +1,16 @@
+{
+  "name": "biblia",
+  "version": "1.0.0",
+  "description": "automacao site you version",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+    
+  },
+  "author": "Daniel Otaviano",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.7.0"
+    
+  }
+}
